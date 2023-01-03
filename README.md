@@ -14,9 +14,9 @@ Database:
 Other technologies:
 🌹 DevOps tools such as GitHub Actions and Firebase 🌹 Docker
 
-Currently studying at Mission Ready 🌏
+I've finished studying at Mission Ready and I'm now working as a Junior Developer Intern at 3PM 🌏
 
-Thanks for visiting, if you wanna connect here's my LinkedIn 🥰 https://www.linkedin.com/in/alyssa-barrett-94a72b249/ 
+
 
 
 
